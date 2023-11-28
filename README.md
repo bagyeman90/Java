@@ -1,4 +1,3 @@
-Hello World Java Program
 This Java program is a simple yet fundamental exercise for anyone learning the language. It serves as an introduction to the basic structure and syntax of Java, demonstrating the creation of a class, defining a method, and utilizing the System.out.println() statement.
 
 Running the Program
@@ -27,6 +26,4 @@ public class helloWorld{
     }
 }
 Use code with caution. Learn more
-Within the main method, we utilize the System.out.println() statement to display the message "Hello World" to the console. This statement effectively prints the desired output to the terminal window.
-
-Conclusion
+Within the main method, we utilize the System.out.println() statement to display the message "Hello World" to the console. This statement effectively prints the desired output to the terminal window
